@@ -677,3 +677,9 @@ img {
     text-decoration: underline;
   }
 }
+
+.wordmark .logo {
+  display: block;
+  width: 120px;
+  height: auto;
+}
